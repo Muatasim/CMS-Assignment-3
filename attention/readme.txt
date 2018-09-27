@@ -1,5 +1,4 @@
-plugin that adds a notification system to 
-Notices can be set to only be shown to logged-in users.
+plugin that adds a notification system
 
 Five colors are included:
 
