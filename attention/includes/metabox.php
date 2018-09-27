@@ -15,12 +15,6 @@ $sn_meta_box = array(
         	'type' => 'select',
         	'desc' => __('Choose the notice color', 'notices'),
 			'options' => array('Blue', 'Red', 'Orange', 'Green', 'Gray')
-     	),
-		array(
-        	'name' => __('Logged In Users', 'rcp'),
-        	'id' => '_notice_for_logged_in_only',
-        	'type' => 'checkbox',
-        	'desc' => __('Logged-in users only', 'notificaton')
      	)
     )
 );
